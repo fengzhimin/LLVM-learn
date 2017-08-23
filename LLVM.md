@@ -50,3 +50,6 @@
 - Frontend: this includes a lexical analyzer, a syntax parser, a semantic analyzer, and the LLVM IR code generator
 - IR: The LLVM IR has both human-readable(.ll) and binary-encoded representations(.bc).
 - Backend: It converts LLVM IR to target-specific assembly code or object code binaries.
+
+#### The Frontend
+- -### flag shows the list of programs called by the clang driver.
